@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255, 192, 231);
+    text-align: center;
+    padding: 50px white;
+
+}
+
+h1 {
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: cursive;
+    color: rgb(185, 55, 124);
+    
+}
+
+a { 
+     color: blueviolet;
+     font-size: large;
+}
