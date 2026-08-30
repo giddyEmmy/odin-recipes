@@ -5,6 +5,15 @@ body {
 
 }
 
+.card {
+    width: 400px;
+  background: rgb(255, 225, 242);
+  margin: auto;
+  padding: 8px;
+  border-radius: 10px;
+
+}
+
 h1 {
     font-size: xx-large;
     font-weight: bold;
